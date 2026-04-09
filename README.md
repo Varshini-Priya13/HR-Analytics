@@ -4,7 +4,7 @@ This project focuses on analyzing employee data to uncover key insights related 
 
 Analyzed employee data to identify factors influencing attrition and retention
 Built interactive dashboards in Power BI for real-time HR insights
-Performed data cleaning, transformation, and modeling using SQL and Excel
+Performed data cleaning, transformation, and modeling using SQL and Power BI
 Created KPIs such as attrition rate, employee performance, department-wise trends, and hiring analysis
 Delivered actionable insights to support strategic HR decisions
 
